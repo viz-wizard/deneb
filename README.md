@@ -1,2 +1,2 @@
-# deneb
+# DENEB
 My Deneb Repository
